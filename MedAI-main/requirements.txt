@@ -1,7 +1,0 @@
-flask>=2.0.0
-numpy>=1.19.5
-Pillow>=8.0.0
-opencv-python>=4.5.0
-scikit-image==0.19.3
-gevent==1.4.0
-gunicorn==19.9.0
