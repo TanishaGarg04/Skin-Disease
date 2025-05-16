@@ -1,0 +1,21 @@
+{
+    "name": "MedAI - Skin Disease Detection",
+    "short_name": "MedAI",
+    "description": "AI-powered skin disease detection and analysis app",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#142526",
+    "theme_color": "#142526",
+    "icons": [
+        {
+            "src": "/static/images/logo1.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/static/images/logo1.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+} 
